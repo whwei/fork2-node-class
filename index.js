@@ -1,5 +1,5 @@
 
-Class = function(prop, parent) {
+var Class = function(prop, parent) {
     var value,
         proto,
         init;
